@@ -8,18 +8,18 @@ const projects = [
   {
     name: "AI image generator (MERN)",
     description:
-      "Free AI tool that helps you generate free images through prompts.",
+      "Free AI tool that helps you generate free images through prompts.(Undeployed)",
     image: "/MERN.png",
     github: "https://github.com/FoxAhmad/MERN-project",
+    link: " ",
+  },
+  {
+    name: "Inventory Management System",
+    description: "Online website/app for managing inventory for your store.(Udeployed)",
+    image: "/IMS.png", 
+    github: "https://github.com/Ehab-24/threeface-wms",
     link: "",
   },
-  // {
-  //   name: "PlatoIO",
-  //   description: "PlatoIO is a to do list app that built using the PERN stack.",
-  //   image: "/platoio.png",
-  //   github: "https://github.com/hqasmei/platoio",
-  //   link: "https://platoio.com/register",
-  // },
   // {
   //   name: "Kator Family Photos",
   //   description:
